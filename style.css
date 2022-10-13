@@ -1,0 +1,30 @@
+/* select {
+    font-family: 'Arial', 'FontAwesome';
+  } */
+
+  html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  #select1 {
+	padding: 0.2em  0.5em 0.2em 1.5em;
+	background-image: url(https://img.icons8.com/color/96/000000/tether--v2.png );
+	background-repeat: no-repeat;
+	background-size: 0.8em auto;
+	background-position: 0.4em center;
+	font-size: 1.3em;
+ }
+
+ #select2{
+    padding: 0.2em  0.5em 0.2em 1.5em;
+	background-image: url(./bsc.png );
+	background-repeat: no-repeat;
+	background-size: 0.8em auto;
+	background-position: 0.4em center;
+	font-size: 1.3em;
+ }
+
+
+ .bolden{font-family:"Arial Black"}
