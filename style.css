@@ -1,6 +1,6 @@
-/* select {
-    font-family: 'Arial', 'FontAwesome';
-  } */
+		select {
+			font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol", 'FontAwesome';
+		}
 
   html {
     box-sizing: border-box;
